@@ -1,0 +1,9 @@
+{
+    "python.linting.enabled": true,
+    "python.defaultInterpreterPath": "/home/geno1664/Developments/Hackathons/Lauchhacks_2022/SRC/bin/python",
+    "python.formatting.autopep8Path": "home/geno1664/Developments/Hackathons/Lauchhacks_2022/SRC/bin/autopep8",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintPath": "home/geno1664/Developments/Hackathons/Lauchhacks_2022/SRC/bin/pylint",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.testing.unittestEnabled": true
+}
